@@ -6,11 +6,11 @@ $(document).ready(function() {
   $('.activerecord').css('width', '50%');
   $('.sinatra').css('width', '45%');
   $('.bootstrap').css('width', '45%');
-  $('.startup').css('width', '90%');
-  $('.finance').css('width', '90%');
-  $('.marketing').css('width', '90%');
-  $('.management').css('width', '90%');
-  $('.investments').css('width', '90%');
-  $('.financial').css('width', '90%');
-  $('.employee').css('width', '75%');
+  $('.startup').css('width', '85%');
+  $('.finance').css('width', '85%');
+  $('.marketing').css('width', '85%');
+  $('.management').css('width', '85%');
+  $('.investments').css('width', '85%');
+  $('.financial').css('width', '85%');
+  $('.employee').css('width', '70%');
 });
