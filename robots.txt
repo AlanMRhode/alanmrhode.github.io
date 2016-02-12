@@ -1,0 +1,1 @@
+User-agent: * # allow all robots on the site Disallow: /wp-admin/ # Disallow admin or other sensitive areas
