@@ -155,6 +155,7 @@
  	font-size: 15px;
  }
  .social {
+ 	margin-top: -1.5%;
  	-webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
 	-o-transition: all 0.5s ease;
