@@ -103,6 +103,7 @@
     margin: -5px 0px 0px 0px;
     text-align: left;
 	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
 }
 #resumeProficienciesBottom {
     float: left;
@@ -128,7 +129,7 @@
     height: 20px;
     background-color: green;
 }
-.html, .javascript, .ruby, .sintra, .activerecord, .bootstrap, .startup, .finance, .marketing, .management, .financial, .employee, .collabortive, .investments {
+.html, .javascript, .ruby, .mvc, .algorithms, .oop, .data, .startup, .finance, .marketing, .management, .financial, .employee, .investments {
  	-webkit-transition: width 2s ease;
  	-moz-transition: width 2s ease;
    	-o-transition: width 2s ease;
